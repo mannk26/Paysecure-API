@@ -1,6 +1,5 @@
 # PaySecure API
-
-A RESTful API built with Spring Boot for user management and salary tracking. Features secure JWT authentication, role-based access control (ADMIN and USER roles), and salary calculations with tax deductions. Built as a beginner-friendly project to showcase Java and Spring skills!
+A secure and scalable RESTful API built using Spring Boot and Spring Security. Implements JWT-based authentication, role-based access control (Admin/User), and salary management functionalities. Designed with clean architecture and modular service-repository layers, making it ideal for HR, payroll, or employee management systems.
 
 ## Features
 - **User Management**: Register, update, delete, and fetch users.
