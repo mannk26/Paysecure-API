@@ -135,3 +135,21 @@ GitHub: [mannk26]
 LinkedIn: [https://www.linkedin.com/in/man-s-8757a5204/]
 
 
+## Some Screenshots:
+![Screenshot 2025-04-08 145831](https://github.com/user-attachments/assets/87c3e566-35a2-418b-bc31-ecd4643442c5)
+![Screenshot 2025-04-08 145915](https://github.com/user-attachments/assets/f2d77e2f-48d5-4759-9ff2-550ef3369070)
+![Screenshot 2025-04-08 150446](https://github.com/user-attachments/assets/5b7b3b6f-d339-428b-bd00-341a4e1cb302)
+![Screenshot 2025-04-08 150816](https://github.com/user-attachments/assets/be6715de-9d31-43e4-986b-476ad4ad30ef)
+![Screenshot 2025-04-08 151031](https://github.com/user-attachments/assets/3baf0101-b476-48c0-87e3-33398acd3148)
+![Screenshot 2025-04-08 151056](https://github.com/user-attachments/assets/224bf469-9ad2-4166-8f06-0e27bdef6bbc)
+![Screenshot 2025-04-08 151158](https://github.com/user-attachments/assets/b56cbf39-5d9a-4f70-bd9c-218a53c71f98)
+![Screenshot 2025-04-08 151627](https://github.com/user-attachments/assets/4e048b4b-8a6c-46c6-b701-27eb2a70fd4b)
+![Screenshot 2025-04-08 151635](https://github.com/user-attachments/assets/b40e13f8-8928-4115-b1b0-2f3c73e1efc4)
+
+
+
+
+
+
+
+
