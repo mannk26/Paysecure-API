@@ -2,7 +2,7 @@ package in.Mrityunjay.Controller;
 
 import in.Mrityunjay.Entity.User;
 import in.Mrityunjay.Repo.UserRepo;
-//import in.Meghana.Repo.SalaryRepo;
+
 import in.Mrityunjay.Service.UserService;
 import lombok.AllArgsConstructor;
 
@@ -72,7 +72,7 @@ public class UserController {
     	  else {
             user.setPassword(passwordEncoder.encode(user.getPassword()));
             userService.saveUser(user);
-            return ResponseEntity.status(HttpStatus.CREATED).body(user);
+           return ResponseEntity.status(HttpStatus.CREATED).body(user);
         } 
     }
 

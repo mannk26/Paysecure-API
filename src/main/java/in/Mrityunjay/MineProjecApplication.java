@@ -12,8 +12,7 @@ import io.swagger.v3.oas.annotations.info.Info;
 	)
 public class MineProjecApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MineProjecApplication.class, args);
+	public static void main(String[] args) {SpringApplication.run(MineProjecApplication.class, args);
 	}
 
 }
